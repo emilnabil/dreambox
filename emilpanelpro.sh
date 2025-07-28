@@ -1,17 +1,15 @@
 #!/bin/bash
-##setup command=wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh -O - | /bin/sh
+##setup command=wget https://github.com/emilnabil/dreambox/raw/refs/heads/main/emilpanelpro.sh -O - | /bin/sh
 
 TMPPATH="/tmp/EmilPanelPro"
-PLUGIN_URL="https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro"
+PLUGIN_URL="https://github.com/emilnabil/dreambox/raw/refs/heads/main"
 
-# 
 if [ ! -d /usr/lib64 ]; then
     PLUGINPATH="/usr/lib/enigma2/python/Plugins/Extensions/EmilPanelPro"
 else
     PLUGINPATH="/usr/lib64/enigma2/python/Plugins/Extensions/EmilPanelPro"
 fi
 
-#
 if [ -f /var/lib/dpkg/status ]; then
     STATUS="/var/lib/dpkg/status"
     OSTYPE="DreamOs"
@@ -22,7 +20,6 @@ else
     INSTALLER="opkg"
 fi
 
-# 
 if command -v python3 >/dev/null 2>&1; then
     PYTHON_CMD="python3"
 elif command -v python >/dev/null 2>&1; then
@@ -34,7 +31,6 @@ else
     exit 1
 fi
 
-# 
 if $PYTHON_CMD -c 'import sys; exit(0) if sys.version_info[0] == 3 else exit(1)'; then
     echo "✔ Python3 image detected"
     PYTHON="py3"
@@ -47,14 +43,12 @@ else
     Packagerequests="python-requests"
 fi
 
-# 
-if [ "$PYTHON" = "PY3" ] && ! grep -qs "Package: $Packagesix" "$STATUS"; then
+if [ "$PYTHON" = "py3" ] && ! grep -qs "Package: $Packagesix" "$STATUS"; then
     echo "Installing $Packagesix ..."
     opkg update >/dev/null 2>&1
     opkg install "$Packagesix" >/dev/null 2>&1
 fi
 
-# 
 if ! grep -qs "Package: $Packagerequests" "$STATUS"; then
     echo "Installing $Packagerequests ..."
     if [ "$INSTALLER" = "apt-get" ]; then
@@ -66,22 +60,18 @@ if ! grep -qs "Package: $Packagerequests" "$STATUS"; then
     fi
 fi
 
-# 
 rm -rf "$TMPPATH" "$PLUGINPATH"
 mkdir -p "$TMPPATH"
 
 cd /tmp || exit 1
 
-# 
 echo "Downloading EmilPanelPro ($PYTHON version)..."
-wget -q "$PLUGIN_URL/${PYTHON}/EmilPanelPro.tar.gz" -O "/tmp/EmilPanelPro.tar.gz"
-
+wget -q "$PLUGIN_URL/EmilPanelPro.tar.gz" -O "/tmp/EmilPanelPro.tar.gz"
 if [ $? -ne 0 ]; then
     echo "✘ Failed to download the plugin."
     exit 1
 fi
 
-# 
 tar -xzf "/tmp/EmilPanelPro.tar.gz" -C / >/dev/null 2>&1
 if [ $? -ne 0 ]; then
     echo "✘ Failed to extract the plugin."
@@ -92,7 +82,7 @@ sync
 
 echo "#########################################################"
 echo "#  ✔ EmilPanelPro INSTALLED SUCCESSFULLY               #"
-echo "#         Uploaded by Emil Nabil            #"
+echo "#         Uploaded by Emil Nabil                       #"
 echo "#########################################################"
 
 rm -rf "$TMPPATH" "/tmp/EmilPanelPro.tar.gz"
