@@ -1,10 +1,10 @@
 #!/bin/bash
 #
-## command=curl -kL https://github.com/emilnabil/skins-obh/raw/refs/heads/main/Signalfinder.sh | bash
+## command=curl -kL https://github.com/emilnabil/dreambox/raw/refs/heads/main/Signalfinder.sh | bash
 ######################
 
 TMPFILE="/tmp/Signalfinder.tar.gz"
-URL="https://github.com/emilnabil/skins-obh/raw/refs/heads/main/Signalfinder.tar.gz"
+URL="https://github.com/emilnabil/dreambox/raw/refs/heads/main/Signalfinder.tar.gz"
 
 cd /tmp || {
     echo "Failed to change directory to /tmp"
@@ -32,5 +32,6 @@ echo "Installation complete!"
 echo ">>>>>>>>>>>>>>>>> DONE <<<<<<<<<<<<<<<<<"
 sleep 2
 exit 0
+
 
 
