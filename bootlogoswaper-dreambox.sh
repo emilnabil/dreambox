@@ -5,11 +5,6 @@
 
 set -e 
 
-if ! command -v apt-get >/dev/null 2>&1; then
-    echo "❌ apt-get not found. This script is for Debian-based systems."
-    exit 1
-fi
-
 echo "Updating package list..."
 apt-get update -y
 
@@ -46,5 +41,6 @@ echo "✅ Installation complete!"
 echo ">>>>>>>>>>>>>>>>> DONE <<<<<<<<<<<<<<<<<"
 sleep 2
 exit 0
+
 
 
