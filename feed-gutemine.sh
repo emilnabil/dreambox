@@ -1,7 +1,8 @@
-wget -O /tmp/gutemine_4.2-r9_armhf.deb https://github.com/emilnabil/dreambox/raw/refs/heads/main/gutemine_4.2-r9_armhf.deb
-dpkg -i /tmp/gutemine_4.2-r9_armhf.deb
+wget -O /tmp/enigma2-plugin-systemplugins-gutemine_2.9-r23_all.deb https://github.com/emilnabil/dreambox/raw/refs/heads/main/enigma2-plugin-systemplugins-gutemine_2.9-r23_all.deb
+dpkg -i /tmp/enigma2-plugin-systemplugins-gutemine_2.9-r23_all.deb
 sleep 2
 apt-get -f -y install
+
 
 
 
