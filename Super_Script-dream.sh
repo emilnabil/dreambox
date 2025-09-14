@@ -1,3 +1,175 @@
-z="
-";pz='igno';COz='step';wBz='M';lIz=']}";';SJz='mp/p';OFz='ges.';wKz='nabi';KLz='avio';PIz='gstp';FMz='s.sh';VFz='rl" ';AKz='ecut';PEz=''\'' >&';fMz='/Key';vNz='y Em';WGz=' "✔ ';jDz=' && ';MMz='ilPa';qz='red"';DGz='n ve';WKz='rn 1';MKz='n 1;';SGz=' -q ';AFz='es u';HKz='url"';iLz='shlo';ICz='   ★';FHz='rape';QFz='ntia';LNz='eani';xMz='cam.';uz='done';GKz='pt $';qBz='tail';tGz='n-lx';uFz='ed t';XMz='osat';pMz='gnal';Sz='shut';HMz='tart';bIz='0-pl';NKz=' }';DOz='s co';aGz='hon2';aCz=' 202';KKz='"; r';oGz='=(';Fz='ot c';ZOz='-9 e';tKz='x4u.';CKz='ucce';XNz='gin_';RCz=' by ';aFz='pkg ';bMz='.6.s';nMz='dQui';NJz='l ur';qIz='ge" ';FIz='ins-';pFz=' $pk';qHz='erti';pIz=' "$p';hLz='/cra';ROz=' "🔁';EJz='alle';QLz='serc';hz='a2" ';iBz='erru';OHz='n-py';xIz='e...';WOz='ply ';qMz='/xtr';PHz='cryp';iDz='me ]';CDz='nfo.';WEz='pack';KMz='e.sh';KIz='peg"';BLz='anel';AEz='ip -';XHz='n-ar';tBz='t 1'\''';uNz='ed B';TNz=' /tm';vLz='aw/r';qNz='und ';jJz='ies=';iOz=' 1; ';mNz='mpor';SLz='nt.c';xGz='requ';vEz='upgr';BFz='pgra';mBz='$LOG';JIz='"ffm';rIz='ll 2';ez='rg" ';RDz='mage';WCz='   V';mOz='skip';VCz='    ';nCz='l to';SCz='Emil';kz='all ';sBz=' exi';aJz='Down';QHz='to"';kMz='eyBo';tOz='ART)';YHz='gpar';Tz='down';PNz=' fil';IMz='UpSe';hKz='4u.c';ZHz='se"';BCz='" >&';eMz='erxt';bHz='ipro';sCz='l us';FEz='to d';xKz='l237';nz='comm';Hz='nd i';eEz='/nul';HCz=' "  ';vIz=' "In';cBz='trap';OKz='rm -';yFz='> Ch';VBz=' 3>&';VOz='o ap';jHz='clie';LKz='etur';mCz='stal';HOz='essf';yLz='s/ma';sIz='>&1;';WLz='s/re';DEz='te s';XIz='d"';dJz='if w';cDz='tro ';xEz='-y >';EIz='plug';rGz='lsdl';UCz='il ★';NMz='nelP';pOz='ABLE';BNz='/ipa';oKz='nel/';xBz='prin';qDz=' ech';vDz=' inf';YBz='OG_F';CLz='/new';MGz='ull ';VDz='ut -';eGz='is r';LJz='pt()';FDz=' /et';fBz='⚠ Sc';uKz='com/';oFz='o "✔';hEz='& ec';YIz='"gst';GJz='IPAU';iFz='-y "';GNz='ls[@';cKz='urls';cEz='te >';rz='retu';cOz='o re';TGz=''\''^Py';ADz='syst';VKz='pty"';iCz=' "" ';mFz='null';UBz='exec';cJz='$url';iNz='>&3 ';bFz='${es';jIz='${pa';EHz='cfsc';GDz='c/im';EMz='tyle';nGz='n2 .';cNz='&& e';JJz='"6.6';YFz='ntpd';ZBz='ILE"';rDz='o "⚠';SIz='gstr';TDz='sion';iMz='Virt';gGz='exit';QEz='o "e';vBz=' TER';hDz='stna';QKz='tmp_';Cz=' {';REz='th0"';UKz='s em';kLz='wer/';gEz='&1 &';EFz=' pac';LIz=' "ex';JDz='ion ';oEz='iled';ZLz='/mai';yJz='l ex';yHz='" "e';QJz='l tm';PDz=''\'' /e';lGz='es f';fDz='nd" ';rHz='fi" ';LLz='r/in';TMz='bber';CJz='alre';nHz='on-x';EBz='STAR';YOz='p 4';XKz='o do';BMz='enuS';jKz='miln';XOz='chan';kNz='"⚠ N';MJz='loca';WNz='"plu';sLz='l/dr';bLz='cami';JGz='thon';rFz='led"';oDz='e >&';TLz='/dow';LHz=' "py';nOz='ped ';gDz='c/ho';PJz='1"';EEz='how ';wEz='ade ';wDz='o fo';bKz=' ...';VEz='eed ';rEz='eeds';aOz='a2 |';TBz='log"';qEz='te f';MHz='-sql';Pz=' ign';sDz=' No ';CMz='ort.';tJz='t"';bJz='load';AMz='in/M';lDz='/etc';MFz='al p';lz='enig';dKz='"htt';gJz='eout';rCz='es" ';WMz='/ipt';YJz='sh"';bEz='upda';nNz='ary ';rJz='chmo';DNz='pro/';kDz='cat ';XBz='>"$L';QCz='ller';Gz='omma';hJz='=10 ';eFz='[@]}';fCz=': $(';vHz='det"';NHz='ite3';sz='rn 0';XGz='You ';HEz='lt 2';HDz='age-';BIz='lugi';yDz=' >&3';sNz=' "#>';QGz='1 | ';az='$@";';bBz='1';pEz=' to ';sEz='3; e';fLz='o_py';uIz='n';tDz='host';aLz='n/cc';YLz='eads';XDz='f2 >';oNz='file';PLz='hubu';MBz='scri';vJz='t" &';QOz='then';FCz='=" >';NNz='empo';wIz=' $pa';MLz='ler.';ALz='/ajp';rMz='eami';yz='REST';JCz=' Sup';ONz='rary';JHz='mer"';ZEz='apt-';ZKz='ad s';TFz='"xz"';wHz='-pys';dEz='/dev';aBz=' 2>&';NCz='Plug';Kz='}';lJz=' "$t';dHz='ing"';ELz='l-pa';yNz='<<<<';uEz='1; }';SOz=' Res';rLz='hub.';RNz='." >';JNz='p 1';oJz=' -s ';XLz='fs/h';JBz='="/t';xCz='ther';oLz='er.s';SBz='%S).';gKz='mbox';rKz='/dre';UGz=' 2\.';bNz='ete ';VIz='-plu';lOz='art ';pLz='h"';JFz='ling';PFz='esse';Dz='echo';lKz='237/';eNz='"✔ T';pCz='& pa';eJz='-q -';pGz='curl';vMz='ccam';jBz='pted';CCz='3';wLz='efs/';fz='= "e';mDz='/hos';ODz='stro';nFz='1 &&';bCz='5" >';UOz='ce t';gz='nigm';SHz='dump';lCz='� In';dBz=' '\''ec';SDz='-ver';rBz='s.";';DJz='ady ';bz=' do';qJz='" ];';sFz=' "✘ ';tz='fi';nJz='"; t';cz='if [';dMz='imak';aDz='⚠ No';jNz='|| e';pDz='3 ||';kIz='es[@';ZCz='July';sGz='" "p';Zz='in "';fNz='es c';KFz=' ess';FGz='n...';pJz='"$tm';MOz=',}" ';tMz='/emu';rOz='TART';hHz='dg-h';LDz=' gre';xHz='ocks';GCz='&3';LEz=' awk';fKz='drea';wMz='er-n';GGz='if c';jGz='uire';ZMz='paud';WIz='-goo';VHz='-ima';mz='ma2 ';cGz='Pyth';jOz=' "ℹ ';VGz=''\''; t';TIz='eame';TJz='n_in';RIz='r" "';HJz='DIO_';nLz='View';NOz='= "t';kKz='abil';vCz='gins';iEz='✔ Fe';lLz='Cras';dDz='info';oHz='mlrp';IBz='FILE';hIz=')';OJz='l="$';MCz='t & ';EOz='mple';UDz=' | c';ACz='\n\n';HLz='.sh"';TKz='rl i';tEz='xit ';lFz='dev/';BEz='o -4';MNz='ng t';Mz='() {';bOz='| { ';iIz='age ';BKz='ed s';RLz='onte';ABz='ART=';jEz='eds ';uMz='er-c';uLz='ox/r';mIz='if !';KOz=' "${';gNz='lean';xDz='und"';VMz='tall';DLz='/emi';fOz='igma';IIz='pp"';OIz='3" "';iGz=' req';kCz=' " �';gBz='ript';lHz='pydo';lMz='ard/';mHz='c" "';NBz='pt_$';xz='BLE_';mKz='ins/';yMz='er-o';ULz='nloa';GHz='" "l';SMz='-Gra';MEz=' '\''{p';YKz='wnlo';OEz=' $5}';KDz='] &&';qLz='/git';NGz='2>&1';JEz='v/nu';LBz='uper';dOz='star';fJz='-tim';BOz='All ';iHz='ttps';yIz='$pac';VLz='d-pl';DDz='.." ';Iz='gnor';XJz='%s).';CIz='n-sy';OBz='(dat';IJz='VER=';DFz='Some';CGz='ytho';DBz='E_RE';lEz=' || ';AOz='#" >';Yz='arg ';yBz='tf "';JMz='rvic';uHz='char';NDz=' '\''di';KHz='six"';wNz='il N';PKz='f "$';dFz='ial_';vFz='o in';OLz='.git';uDz='name';DHz='p4" ';IOz='ully';EGz='rsio';sOz=' = $';tNz='>>>>';UEz='ng f';aMz='io-6';hCz=')" >';fFz='"; d';dz=' "$a';RGz='grep';UMz='/ins';FFz='kage';AGz='ecki';xLz='head';HBz='LOG_';FLz='nel-';LFz='enti';fIz='s-ba';dGz='on2 ';sKz='ambo';INz='slee';HIz='icea';vGz='"pyt';ECz='====';nKz='ajpa';kGz='d pa';Az='rebo';hFz='inst';cHz='cess';eOz='t en';uBz=' INT';iJz='--tr';qCz='ckag';fGz='equi';nEz='✘ Fa';AJz='e in';PCz='nsta';POz=' ]; ';WBz='1 1>';pNz='s fo';BJz=' is ';RBz='-%M-';jFz='$pkg';ZNz='sh" ';aEz='get ';rNz='to c';hGz=' 1';XFz='t" "';uCz=' plu';NEz='rint';YGz='have';UJz='ler_';KEz='ll |';iz=']; t';hOz='&3; ';IEz='>/de';OCz='in I';GBz='rue}';oMz='ckSi';BHz='tifu';uJz='bash';HFz='ade"';pHz='on-c';bGz='else';NIz='ayer';vz='"$@"';UHz='age"';vKz='emil';xFz='kg" ';Qz='ored';PBz='e +%';HHz='ives';FBz='T:-t';XEz='ages';MIz='tepl';ZFz='")';gCz='date';OGz='pyth';xNz=' <<<';eCz='d at';aIz='er1.';Nz=' com';ILz='/Ara';QMz='pro.';dIz='s-ug';GFz='s fa';sHz='urll';wz='DISA';Ez=' "⚠ ';nDz='tnam';gLz='2.sh';jMz='ualK';CFz='ded"';lBz='eck ';LGz='ev/n';tCz='eful';Oz='mand';ZGz=' Pyt';KBz='mp/s';gHz='on-n';kEz='ted"';jCz='>&3';dCz='arte';YDz='&3 |';ZIz='ream';EKz='lly"';Rz='"';KJz='run_';PMz='milp';tIz=' the';RKz='pt"';FKz='ute ';nBz='_FIL';mJz='mp_s';CBz='SABL';NFz='acka';PGz='on -';eBz='ho "';KNz='> Cl';gOz='2" >';cLz='nfo/';kOz='Rest';cFz='sent';WHz='ging';GIz='serv';hBz=' int';wJz='✔ Sc';IGz='v py';oCz='ols ';eIz='ly" ';CNz='udio';mGz='or P';fHz='p" "';Wz=') {';cCz=' "St';TCz=' Nab';QBz='F_%H';eLz='minf';SEz='> Up';Bz='ot()';qGz='" "h';XCz='ersi';yCz='ing ';GLz='lite';YMz='in/i';BBz='${DI';jz='hen';eHz='-mma';yKz='/plu';BGz='ng P';tFz='Fail';BDz='em i';CEz=' rou';aNz='-del';RJz='p_sc';UNz='p -n';mMz='/Rae';TEz='dati';AIz='a2-p';hNz='ed" ';KCz='er_S';nIz=' dpk';Xz='for ';DMz='in/s';WJz='te +';sMz='ty/i';uGz='ml" ';oOz='(DIS';IKz='; rm';eDz=' fou';LCz='crip';LMz='n/Em';MDz='p -i';QDz='tc/i';OOz='rue"';THz='n-im';WFz='"wge';Jz='ed"';IFz='> In';lNz='o te';iKz='om/e';oIz='g -s';pBz='r de';Vz='all(';SFz='es=(';JKz=' -f ';dLz='ccca';bDz=' dis';mLz='hLog';DKz='ssfu';VJz='$(da';FJz='d" >';JOz='!" >';SKz='t $u';GEz='efau';qFz='g in';YNz='r_*.';RFz='l_pa';ZJz=' "▶ ';qKz='ps:/';oz='and ';fEz='l 2>';IDz='vers';xJz=' $ur';jLz='gvie';gIz='se" ';kHz='nt"';yEz='✔ Pa';sJz='d +x';dNz='cho ';FOz='ted ';DCz=' "==';gMz='Adde';hMz='/New';Lz='init';aKz=' Plu';LOz='ART,';ZDz='| ec';RHz='"f4m';WDz='d= -';KGz=' >/d';YCz='on: ';TOz='devi';AHz='beau';EDz='[ -f';UFz=' "cu';HNz='pt "';kBz='. Ch';OMz='ro/e';yGz='ests';gFz='o';tLz='eamb';QNz='es..';NLz='/raw';SNz='find';VNz='ame ';eKz='p://';pKz='r.sh';YEz='..."';UIz='r1.0';aHz='mult';GOz='succ';HGz='nd -';mEz='{ ec';DIz='stem';RMz='/Epg';tHz='ib3"';cMz='/jed';wGz='hon-';QIz='laye';FNz='${ur';JLz='bicS';kJz='2 -O';Uz='kill';cIz='ugin';GMz='in/S';wFz='l $p';kFz='" >/';wCz='> Ga';qOz='_RES';ANz='scam';ENz='url ';oBz='E fo';IHz='trea';CHz='lsou';
-eval "$Az$Bz$Cz$z$Dz$Ez$Az$Fz$Gz$Hz$Iz$Jz$z$Kz$z$Lz$Mz$z$Dz$Ez$Lz$Nz$Oz$Pz$Qz$Rz$z$Kz$z$Sz$Tz$Mz$z$Dz$Ez$Sz$Tz$Nz$Oz$Pz$Qz$Rz$z$Kz$z$Uz$Vz$Wz$z$Xz$Yz$Zz$az$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$z$Dz$Ez$Uz$kz$lz$mz$nz$oz$pz$qz$z$rz$sz$z$tz$z$uz$z$nz$oz$Uz$kz$vz$z$Kz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$z$xBz$yBz$ACz$BCz$CCz$z$Dz$DCz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$FCz$GCz$z$Dz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$BCz$CCz$z$Dz$HCz$VCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$GCz$z$Dz$DCz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$ECz$FCz$GCz$z$Dz$cCz$dCz$eCz$fCz$gCz$hCz$GCz$z$Dz$iCz$jCz$z$Dz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$jCz$z$Dz$kCz$lCz$mCz$sCz$tCz$uCz$vCz$BCz$CCz$z$Dz$iCz$jCz$z$Dz$DCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$jCz$z$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$eBz$aDz$bDz$cDz$dDz$eDz$fDz$jCz$z$EDz$FDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$z$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$pDz$qDz$QEz$REz$yDz$z$Dz$iCz$jCz$z$Dz$DCz$SEz$TEz$UEz$VEz$oz$WEz$XEz$YEz$yDz$z$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$eBz$iEz$jEz$bEz$kEz$yDz$lEz$mEz$eBz$nEz$oEz$pEz$bEz$qEz$rEz$BCz$sEz$tEz$uEz$z$ZEz$aEz$vEz$wEz$xEz$dEz$eEz$fEz$gEz$hEz$eBz$yEz$qCz$AFz$BFz$CFz$yDz$lEz$Dz$Ez$DFz$EFz$FFz$GFz$oEz$pEz$vEz$HFz$yDz$z$Dz$iCz$jCz$z$Dz$DCz$IFz$mCz$JFz$KFz$LFz$MFz$NFz$OFz$DDz$jCz$z$PFz$QFz$RFz$qCz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$z$Xz$aFz$Zz$bFz$cFz$dFz$WEz$XEz$eFz$fFz$gFz$z$ZEz$aEz$hFz$kz$iFz$jFz$kFz$lFz$mFz$aBz$nFz$qDz$oFz$pFz$qFz$mCz$rFz$yDz$lEz$Dz$sFz$tFz$uFz$vFz$mCz$wFz$xFz$jCz$z$uz$z$Dz$iCz$jCz$z$Dz$DCz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$BCz$CCz$z$GGz$Gz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$jDz$OGz$PGz$SDz$TDz$aBz$QGz$RGz$SGz$TGz$JGz$UGz$VGz$jz$z$Dz$WGz$XGz$YGz$ZGz$aGz$BCz$CCz$z$bGz$z$Dz$sFz$cGz$dGz$eGz$fGz$qz$yDz$z$gGz$hGz$z$tz$z$Dz$iCz$jCz$z$Dz$DCz$IFz$mCz$JFz$iGz$jGz$kGz$qCz$lGz$mGz$CGz$nGz$DDz$jCz$z$WEz$XEz$oGz$z$WFz$XFz$pGz$qGz$rGz$sGz$CGz$tGz$uGz$vGz$wGz$xGz$yGz$Rz$z$vGz$wGz$AHz$BHz$CHz$DHz$vGz$wGz$EHz$FHz$GHz$HHz$IHz$JHz$z$vGz$wGz$KHz$LHz$JGz$MHz$NHz$sGz$CGz$OHz$PHz$QHz$z$RHz$SHz$sGz$CGz$THz$UHz$LHz$JGz$VHz$WHz$sGz$CGz$XHz$YHz$ZHz$z$vGz$wGz$aHz$bHz$cHz$dHz$LHz$JGz$eHz$fHz$OGz$gHz$hHz$iHz$jHz$kHz$z$vGz$wGz$lHz$mHz$OGz$nHz$oHz$mHz$OGz$pHz$qHz$rHz$vGz$wGz$sHz$tHz$z$vGz$wGz$uHz$vHz$LHz$JGz$wHz$xHz$yHz$gz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$z$JIz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$RIz$SIz$TIz$UIz$VIz$vCz$WIz$XIz$z$YIz$ZIz$aIz$bIz$cIz$dIz$eIz$YIz$ZIz$aIz$bIz$cIz$fIz$gIz$YIz$ZIz$aIz$bIz$cIz$fIz$XIz$z$hIz$z$Xz$WEz$iIz$Zz$jIz$qCz$kIz$lIz$bz$z$mIz$nIz$oIz$pIz$NFz$qIz$IEz$JEz$rIz$sIz$tIz$uIz$z$Dz$vIz$mCz$JFz$wIz$qCz$xIz$BCz$CCz$z$ZEz$aEz$hFz$kz$iFz$yIz$FFz$kFz$lFz$mFz$aBz$nFz$qDz$oFz$wIz$qCz$AJz$mCz$rFz$yDz$lEz$Dz$sFz$tFz$uFz$vFz$mCz$wFz$NFz$qIz$jCz$z$bGz$z$Dz$WGz$yIz$FFz$BJz$CJz$DJz$hFz$EJz$FJz$GCz$z$tz$z$uz$z$GJz$HJz$IJz$JJz$Rz$z$KJz$MBz$LJz$Cz$z$MJz$NJz$OJz$PJz$z$MJz$QJz$RJz$gBz$JBz$SJz$BIz$TJz$mCz$UJz$VJz$WJz$XJz$YJz$z$Dz$ZJz$aJz$bJz$yCz$cJz$YEz$yDz$z$dJz$aEz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$LCz$XFz$cJz$nJz$jz$z$cz$oJz$pJz$RJz$gBz$qJz$tIz$uIz$z$rJz$sJz$lJz$mJz$LCz$tJz$z$uJz$lJz$mJz$LCz$vJz$hEz$eBz$wJz$gBz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$yDz$lEz$mEz$eBz$nEz$oEz$pEz$UBz$FKz$MBz$GKz$HKz$yDz$IKz$JKz$pJz$RJz$gBz$KKz$LKz$MKz$NKz$z$OKz$PKz$QKz$MBz$RKz$z$bGz$z$Dz$sFz$aJz$bJz$BKz$LCz$SKz$TKz$UKz$VKz$yDz$z$OKz$PKz$QKz$MBz$RKz$z$rz$WKz$z$tz$z$bGz$z$Dz$sFz$tFz$uFz$XKz$YKz$ZKz$LCz$SKz$VFz$jCz$z$rz$WKz$z$tz$z$Kz$z$Dz$iCz$jCz$z$Dz$DCz$IFz$mCz$JFz$aKz$vCz$bKz$BCz$CCz$z$cKz$oGz$z$dKz$eKz$fKz$gKz$hKz$iKz$jKz$kKz$lKz$EIz$mKz$nKz$oKz$hFz$EJz$pKz$Rz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$HLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$ILz$JLz$KLz$LLz$mCz$MLz$YJz$z$dKz$qKz$NLz$OLz$PLz$QLz$RLz$SLz$iKz$jKz$kKz$TLz$ULz$VLz$cIz$WLz$XLz$YLz$ZLz$aLz$bLz$cLz$dLz$eLz$fLz$gLz$Rz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$hLz$iLz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$z$dKz$qKz$qLz$rLz$uKz$vKz$wKz$sLz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$BMz$CMz$YJz$z$dKz$qKz$qLz$rLz$uKz$vKz$wKz$sLz$tLz$uLz$vLz$wLz$xLz$yLz$DMz$EMz$FMz$Rz$z$dKz$qKz$qLz$rLz$uKz$vKz$wKz$sLz$tLz$uLz$vLz$wLz$xLz$yLz$GMz$HMz$IMz$JMz$KMz$Rz$z$dKz$qKz$NLz$OLz$PLz$QLz$RLz$SLz$iKz$jKz$kKz$TLz$ULz$VLz$cIz$WLz$XLz$YLz$ZLz$LMz$MMz$NMz$OMz$PMz$BLz$QMz$YJz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$RMz$SMz$TMz$UMz$VMz$oLz$pLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$WMz$XMz$UMz$VMz$oLz$pLz$z$dKz$qKz$qLz$rLz$uKz$vKz$wKz$sLz$tLz$uLz$vLz$wLz$xLz$yLz$YMz$ZMz$aMz$bMz$pLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$cMz$dMz$eMz$ZIz$UMz$VMz$oLz$pLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$fMz$gMz$LLz$mCz$MLz$YJz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$hMz$iMz$jMz$kMz$lMz$hFz$EJz$pKz$Rz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$mMz$nMz$oMz$pMz$UMz$VMz$oLz$pLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$qMz$rMz$sMz$PCz$QCz$HLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$tMz$UMz$VMz$uMz$vMz$HLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$tMz$UMz$VMz$wMz$xMz$YJz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$tMz$UMz$VMz$yMz$ANz$HLz$z$dKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$vCz$BNz$CNz$DNz$hFz$EJz$pKz$Rz$z$hIz$z$Xz$ENz$Zz$FNz$GNz$lIz$bz$z$KJz$MBz$HNz$cJz$Rz$z$INz$JNz$z$uz$z$Dz$iCz$jCz$z$Dz$DCz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$RNz$GCz$z$SNz$TNz$UNz$VNz$WNz$XNz$hFz$EJz$YNz$ZNz$aNz$bNz$cNz$dNz$eNz$NNz$ONz$PNz$fNz$gNz$hNz$iNz$jNz$dNz$kNz$lNz$mNz$nNz$oNz$pNz$qNz$rNz$gNz$BCz$CCz$z$Dz$iCz$jCz$z$Dz$sNz$tNz$SEz$bJz$uNz$vNz$wNz$kKz$xNz$yNz$AOz$GCz$z$Dz$WGz$BOz$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$GCz$z$cz$KOz$wz$xz$yz$LOz$MOz$NOz$OOz$POz$QOz$z$Dz$ROz$SOz$HMz$yCz$TOz$UOz$VOz$WOz$XOz$OFz$DDz$jCz$z$INz$YOz$z$nz$oz$Uz$kz$ZOz$gz$aOz$bOz$Dz$sFz$tFz$uFz$cOz$dOz$eOz$fOz$gOz$hOz$gGz$iOz$Kz$z$bGz$z$Dz$jOz$kOz$lOz$mOz$nOz$oOz$pOz$qOz$rOz$sOz$wz$xz$yz$tOz$BCz$CCz$z$tz$z$gGz"
+reboot() { 
+    echo "⚠ reboot command ignored" 
+}
+
+init() { 
+    echo "⚠ init command ignored" 
+}
+
+shutdown() { 
+    echo "⚠ shutdown command ignored" 
+}
+
+killall() {
+    for arg in "$@"; do
+        if [ "$arg" = "enigma2" ]; then
+            echo "⚠ killall enigma2 command ignored"
+            return 0
+        fi
+    done
+    command killall "$@"
+}
+
+DISABLE_RESTART=${DISABLE_RESTART:-true}
+LOG_FILE="/tmp/superscript_$(date +%F_%H-%M-%S).log"
+
+exec 3>&1 1>>"$LOG_FILE" 2>&1
+trap 'echo "⚠ Script interrupted. Check $LOG_FILE for details."; exit 1' INT TERM
+
+printf "\n\n" >&3
+echo "===========================================================" >&3
+echo "     ★ Super_Script & Plugin Installer by Emil Nabil ★" >&3
+echo "             Version: July 2025" >&3
+echo "===========================================================" >&3
+echo "Started at: $(date)" >&3
+echo "" >&3
+echo " �� Install tools & packages" >&3
+echo " �� Install useful plugins" >&3
+echo "" >&3
+
+echo "==> Gathering system info..." >&3
+[ -f /etc/image-version ] && grep -i 'distro' /etc/image-version | cut -d= -f2 >&3 || echo "⚠ No distro info found" >&3
+[ -f /etc/hostname ] && cat /etc/hostname >&3 || echo "⚠ No hostname info found" >&3
+ip -o -4 route show to default 2>/dev/null | awk '{print $5}' >&3 || echo "eth0" >&3
+echo "" >&3
+
+echo "==> Updating feed and packages..." >&3
+if apt-get update >/dev/null 2>&1; then
+    echo "✔ Feeds updated" >&3
+else
+    echo "⚠ Failed to update feeds, continuing anyway..." >&3
+fi
+
+if apt-get upgrade -y >/dev/null 2>&1; then
+    echo "✔ Packages upgraded" >&3
+else
+    echo "⚠ Some packages failed to upgrade, continuing anyway..." >&3
+fi
+echo "" >&3
+
+echo "==> Installing essential packages..." >&3
+essential_packages=("xz" "curl" "wget" "ntpd")
+for pkg in "${essential_packages[@]}"; do
+    if apt-get install -y "$pkg" >/dev/null 2>&1; then
+        echo "✔ $pkg installed" >&3
+    else
+        echo "⚠ Failed to install $pkg, skipping..." >&3
+    fi
+done
+echo "" >&3
+
+echo "==> Checking Python version..." >&3
+if command -v python >/dev/null 2>&1 && python --version 2>&1 | grep -q '^Python 2\.'; then
+    echo "✔ You have Python2" >&3
+else
+    echo "⚠ Python2 is required, but not found. Continuing anyway..." >&3
+fi
+echo "" >&3
+
+echo "==> Installing required packages for Python2 ..." >&3
+packages=(
+    "wget" "curl" "hlsdl" "python-lxml" "python-requests"
+    "python-beautifulsoup4" "python-cfscrape" "livestreamer"
+    "python-six" "python-sqlite3" "python-pycrypto"
+    "f4mdump" "python-image" "python-imaging" "python-argparse"
+    "python-multiprocessing" "python-mmap" "python-ndg-httpsclient"
+    "python-pydoc" "python-xmlrpc" "python-certifi" "python-urllib3"
+    "python-chardet" "python-pysocks" "enigma2-plugin-systemplugins-serviceapp"
+    "ffmpeg" "exteplayer3" "gstplayer" "gstreamer1.0-plugins-good"
+    "gstreamer1.0-plugins-ugly" "gstreamer1.0-plugins-base" "gstreamer1.0-plugins-bad"
+)
+for package in "${packages[@]}"; do
+    if ! dpkg -s "$package" >/dev/null 2>&1; then
+        echo "Installing $package..." >&3
+        if apt-get install -y "$package" >/dev/null 2>&1; then
+            echo "✔ $package installed" >&3
+        else
+            echo "⚠ Failed to install $package, skipping..." >&3
+        fi
+    else
+        echo "✔ $package is already installed" >&3
+    fi
+done
+
+IPAUDIO_VER="6.6"
+
+run_script() {
+    local url="$1"
+    local tmp_script="/tmp/plugin_installer_$(date +%s).sh"
+    echo "▶ Downloading $url..." >&3
+    if wget -q --timeout=10 --tries=2 -O "$tmp_script" "$url"; then
+        if [ -s "$tmp_script" ]; then
+            chmod +x "$tmp_script"
+            if bash "$tmp_script"; then
+                echo "✔ Script $url executed successfully" >&3
+            else
+                echo "⚠ Failed to execute script $url, skipping..." >&3
+            fi
+            rm -f "$tmp_script"
+        else
+            echo "⚠ Downloaded script $url is empty, skipping..." >&3
+            rm -f "$tmp_script"
+        fi
+    else
+        echo "⚠ Failed to download script $url, skipping..." >&3
+    fi
+}
+
+echo "" >&3
+echo "==> Installing Plugins ..." >&3
+urls=(
+    "http://dreambox4u.com/emilnabil237/plugins/ajpanel/installer.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/ajpanel/new/emil-panel-lite.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/ArabicSavior/installer.sh"
+    "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/cccaminfo/cccaminfo_py2.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/crashlogviewer/CrashLogViewer.sh"
+    "https://github.com/emilnabil/dreambox/raw/refs/heads/main/MenuSort.sh"
+    "https://github.com/emilnabil/dreambox/raw/refs/heads/main/styles.sh"
+    "https://github.com/emilnabil/dreambox/raw/refs/heads/main/StartUpService.sh"
+    "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/EmilPanelPro/emilpanelpro.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/Epg-Grabber/installer.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/iptosat/installer.sh"
+    "https://github.com/emilnabil/dreambox/raw/refs/heads/main/ipaudio-6.6.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/jedimakerxtream/installer.sh"
+    "https://dreambox4u.com/emilnabil237/KeyAdder/installer.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/NewVirtualKeyBoard/installer.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/RaedQuickSignal/installer.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/xtreamity/installer.sh"
+    "https://dreambox4u.com/emilnabil237/emu/installer-cccam.sh"
+    "https://dreambox4u.com/emilnabil237/emu/installer-ncam.sh"
+    "https://dreambox4u.com/emilnabil237/emu/installer-oscam.sh"
+    "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/installer.sh"
+)
+for url in "${urls[@]}"; do
+    run_script "$url"
+    sleep 1
+done
+
+echo "" >&3
+echo "==> Cleaning temporary files..." >&3
+find /tmp -name "plugin_installer_*.sh" -delete && echo "✔ Temporary files cleaned" >&3 || echo "⚠ No temporary files found to clean" >&3
+echo "" >&3
+
+echo "#>>>>>> Uploaded By Emil Nabil <<<<<<<#" >&3
+echo "✔ All steps completed successfully (with warnings if any)!" >&3
+
+if [ "${DISABLE_RESTART,,}" = "true" ]; then
+    echo "🔁 Restarting device to apply changes..." >&3
+    sleep 4
+    command killall -9 enigma2 || echo "⚠ Failed to restart enigma2, please restart manually" >&3
+else
+    echo "ℹ Restart skipped (DISABLE_RESTART = $DISABLE_RESTART)" >&3
+fi
+
+exit 0
+
