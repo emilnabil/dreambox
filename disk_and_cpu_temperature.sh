@@ -24,12 +24,14 @@ echo ">>>> Starting installation <<<<"
 cd /tmp
 
 if which dpkg > /dev/null 2>&1; then
+apt-get install-y smartmontools
     wget "$MY_URL/$MY_DEB"
     sleep 2 
     dpkg -i --force-overwrite $MY_DEB
     apt-get install -f -y
     rm -f /tmp/*.deb
 else
+opkg install smartmontools
     wget "$MY_URL/$MY_IPK"
     sleep 2 
     $OPKGINSTALL $MY_IPK
@@ -57,5 +59,6 @@ else
 fi
 
 exit 0
+
 
 
