@@ -1,0 +1,26 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v10.8.5
+Description: Enigma2 Tools
+Maintainer: AMAJamry - https://github.com/AMAJamry/AJPanel
+Architecture: all
+Priority: optional
+Section: base
+Homepage: https://github.com/AMAJamry/AJPanel
+Recommends: xz (>= 5), zip, p7zip, unrar, bzip2, ffmpeg, python-requests | python3-requests, python-imaging | python3-pillow, ar (>= 2) | enigma2-plugin-extensions-opkg-tools | binutils
+Size: 444996
+Filename: enigma2-plugin-extensions-ajpanel_all.deb
+MD5sum: 2681a6cf2300dca43dd574180c935e32
+SHA256sum: 4fd995861606368d6ce762c382313ad5310d5aa48bab9958050dc42f6fe84299
+
+Package: enigma2-plugin-extensions-bouquetmakerxtream
+Version: 1.12-20240301
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: kiddac
+Description: Bouquet Maker Xtream - IPTV bouquet maker
+Size: 1164004
+Filename: enigma2-plugin-extensions-bouquetmakerxtream_all.deb
+MD5sum: 38dab51889e41987f6579a1fdc12a23a
+SHA256sum: 45b84bf17a2c9e3e85dfb8a57dc19b0fc3e2b2f0bc26cdc1e4e10dcb10962ef1
+
