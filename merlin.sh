@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#command=wget https://github.com/emilnabil/dreambox/raw/refs/heads/main/merlin.sh -O - | /bin/sh
+####################
 #configuration
 #########################################
 BOXNAME=$(head -n 1 /etc/hostname)
@@ -110,4 +111,5 @@ done
 
 echo "> Process completed successfully!"
 exit
+
 
