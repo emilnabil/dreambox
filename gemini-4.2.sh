@@ -1,14 +1,44 @@
 #!/bin/bash
-# command=wget https://github.com/emilnabil/dreambox/raw/refs/heads/main/gemini-4.2.sh -O - | /bin/sh
-####################
-# configuration
-#########################################
-BOXNAME=$(head -n 1 /etc/hostname 2>/dev/null)
+
+detect_box() {
+    if [ -f /proc/device-tree/model ]; then
+        MODEL=$(tr -d '\0' < /proc/device-tree/model)
+        case "$MODEL" in
+            *"dm900"*) echo "dm900" ;;
+            *"dm920"*) echo "dm920" ;;
+            *"one"*) echo "dreamone" ;;
+            *"two"*) echo "dreamtwo" ;;
+            *"dm520"*) echo "dm520" ;;
+            *"dm820"*) echo "dm820" ;;
+            *"dm7080"*) echo "dm7080" ;;
+            *) ;;
+        esac
+    fi
+    
+    if [ -z "$BOXNAME" ] && [ -f /etc/hostname ]; then
+        BOXNAME=$(head -n 1 /etc/hostname 2>/dev/null | tr -d '\n\r')
+        echo "$BOXNAME" | tr '[:upper:]' '[:lower:]'
+    fi
+    
+    if [ -z "$BOXNAME" ]; then
+        DMESG_OUTPUT=$(dmesg 2>/dev/null | grep -i "machine:" | head -1)
+        case "$DMESG_OUTPUT" in
+            *"dm900"*) echo "dm900" ;;
+            *"dm920"*) echo "dm920" ;;
+            *"one"*) echo "dreamone" ;;
+            *"two"*) echo "dreamtwo" ;;
+            *"dm520"*) echo "dm520" ;;
+            *"dm820"*) echo "dm820" ;;
+            *"dm7080"*) echo "dm7080" ;;
+            *) echo "unknown" ;;
+        esac
+    fi
+}
+
+BOXNAME=$(detect_box)
 image='Gemini-4.2'
 version='image'
-today=$(date +%d-%m-%Y)
 
-#########################################
 case "$BOXNAME" in
     dm900)
         echo "> Device detected: ARM - DM900"
@@ -53,36 +83,42 @@ case "$BOXNAME" in
         DOWNLOAD_URL="https://gist.dreambox4u.com/download.php?dir=images&sub=dreambox&file=$IMAGE_NAME"
         ;;
     *)
-        echo "> Your device is not supported or /etc/hostname not found"
+        echo "> Your device is not supported or could not be detected"
+        echo "> Detected value: $BOXNAME"
         exit 1
         ;;
 esac
 
-echo "> $IMAGE_NAME image found ..."
+echo "> $IMAGE_NAME image found for $BOXNAME ..."
 sleep 2
-###########
+
 ms=""
-for ms in "/media/hdd" "/media/usb" "/media/mmc" "/media/ba"
+for ms in "/media/hdd" "/media/usb" "/media/mmc" "/media/ba" "/media/sdb1" "/media/sda1" "/media/sdc1" "/mnt/hdd" "/mnt/usb"
 do
-    if mount | grep -q "$ms" 2>/dev/null; then
-        echo "> Mounted storage found at: $ms"
-        mkdir -p "$ms/images" 2>/dev/null
-        if [ -w "$ms" ]; then
-            break
+    if [ -d "$ms" ]; then
+        if mount | grep -q "$ms " 2>/dev/null && [ -w "$ms" ]; then
+            AVAILABLE_SPACE=$(df "$ms" | awk 'NR==2 {print $4}')
+            if [ "$AVAILABLE_SPACE" -gt 512000 ]; then
+                echo "> Mounted storage with sufficient space found at: $ms"
+                mkdir -p "$ms/images" 2>/dev/null
+                break
+            else
+                echo "> Warning: Insufficient space on $ms (available: $((AVAILABLE_SPACE/1024)) MB)"
+                ms=""
+            fi
         else
-            echo "> Warning: No write permission on $ms"
             ms=""
         fi
     fi
 done
 
 if [ -z "$ms" ]; then
-    echo "> No writable mounted storage found. Please mount your external memory and try again."
-    echo "> Checked paths: /media/hdd, /media/usb, /media/mmc, /media/ba"
+    echo "> No writable mounted storage with sufficient space found."
+    echo "> Please mount an external storage (USB/HDD) with at least 500MB free space."
     exit 1
 fi
 sleep 2
-###########
+
 echo "> Downloading $image-$version image to $ms/images please wait..."
 sleep 2
 
@@ -95,29 +131,27 @@ else
     exit 1
 fi
 
-if [ "$DOWNLOAD_CMD" = "wget" ]; then
-    if wget -q --spider "$DOWNLOAD_URL" 2>/dev/null; then
-        echo "> Starting download..."
-        wget --show-progress -qO "$ms/images/$IMAGE_NAME" "$DOWNLOAD_URL"
-        DOWNLOAD_RESULT=$?
-    else
-        echo "> Error: Cannot reach download server. Check your internet connection."
-        exit 1
-    fi
+echo "> Checking internet connection..."
+if ping -c 1 -W 3 8.8.8.8 >/dev/null 2>&1; then
+    echo "> Internet connection OK"
 else
-    if curl -s --head "$DOWNLOAD_URL" 2>/dev/null | head -n 1 | grep -q "200"; then
-        echo "> Starting download..."
-        curl -L --progress-bar -o "$ms/images/$IMAGE_NAME" "$DOWNLOAD_URL"
-        DOWNLOAD_RESULT=$?
-    else
-        echo "> Error: Cannot reach download server. Check your internet connection."
-        exit 1
-    fi
+    echo "> Error: No internet connection detected"
+    exit 1
+fi
+
+if [ "$DOWNLOAD_CMD" = "wget" ]; then
+    echo "> Starting download with wget..."
+    wget --tries=3 --timeout=30 --show-progress -qO "$ms/images/$IMAGE_NAME" "$DOWNLOAD_URL"
+    DOWNLOAD_RESULT=$?
+else
+    echo "> Starting download with curl..."
+    curl -L --connect-timeout 30 --retry 3 --progress-bar -o "$ms/images/$IMAGE_NAME" "$DOWNLOAD_URL"
+    DOWNLOAD_RESULT=$?
 fi
 
 if [ $DOWNLOAD_RESULT -ne 0 ]; then
     echo "> Download failed with error code: $DOWNLOAD_RESULT"
-    echo "> Check your internet connection and try again."
+    rm -f "$ms/images/$IMAGE_NAME" 2>/dev/null
     exit 1
 fi
 
@@ -130,13 +164,13 @@ if [ ! -f "$ms/images/$IMAGE_NAME" ]; then
 fi
 
 FILE_SIZE=$(stat -c%s "$ms/images/$IMAGE_NAME" 2>/dev/null || stat -f%z "$ms/images/$IMAGE_NAME" 2>/dev/null)
-if [ "$FILE_SIZE" -lt 1000000 ]; then
-    echo "> Error: Downloaded file seems too small ($FILE_SIZE bytes). Possibly invalid download."
+if [ "$FILE_SIZE" -lt 50000000 ]; then
+    echo "> Error: Downloaded file seems too small ($((FILE_SIZE/1024/1024)) MB). Possibly invalid download."
     rm -f "$ms/images/$IMAGE_NAME"
     exit 1
 fi
 
-echo "> Image downloaded successfully. Size: $(($FILE_SIZE/1024/1024)) MB"
+echo "> Image downloaded successfully. Size: $((FILE_SIZE/1024/1024)) MB"
 sleep 2
 
 echo "> Searching for multiboot backup folders..."
@@ -152,12 +186,14 @@ do
             echo "> Successfully copied to $dir"
             BACKUP_COPIED=1
         else
-            echo "> Failed to copy to $dir (permission denied?)"
+            echo "> Failed to copy to $dir (permission denied or disk full?)"
         fi
         sleep 1
     fi
 done
 
+echo ""
+echo "========================================"
 if [ $BACKUP_COPIED -eq 1 ]; then
     echo "> Process completed successfully!"
     echo "> Image saved to:"
@@ -172,5 +208,12 @@ else
     echo "> Warning: No backup folders were found or writable."
     echo "> Image saved only to: $ms/images/$IMAGE_NAME"
 fi
+echo ""
+echo "> To install this image:"
+echo "> 1. Reboot your device"
+echo "> 2. Press the appropriate key for boot menu"
+echo "> 3. Select 'Recovery/Flash' option"
+echo "> 4. Choose the downloaded image"
+echo "========================================"
 
 exit 0
